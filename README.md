@@ -94,6 +94,8 @@ pip install -r requirements.txt
   - seaborn
   - scikit-learn
 
+## Built With ❤️ & 💻
+
 ## Contributor  
 - 🛠️ Junaid Shariff 🚀  
 
