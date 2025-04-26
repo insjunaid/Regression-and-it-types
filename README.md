@@ -44,7 +44,7 @@ The target variable is the median house value.
 
 The notebook covers:
 
-- Linear Regression: Models linear relationships.
+- <b>Linear Regression</b>: Models linear relationships.
 - Ridge Regression: Linear regression with L2 regularization.
 - Lasso Regression: Linear regression with L1 regularization.
 - Polynomial Regression: Captures non-linear patterns.
