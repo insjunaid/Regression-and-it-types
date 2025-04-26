@@ -10,3 +10,8 @@
 </p>
 
 ---
+
+### Overview
+
+This project provides a detailed explanation and implementation of Regression techniques, a fundamental concept in Machine Learning.
+Regression is used to model and analyze the relationships between variables and to predict continuous outcomes.
