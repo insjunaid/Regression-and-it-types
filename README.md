@@ -63,3 +63,36 @@ The notebook covers:
 - Seaborn
 
 ---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/regression-and-its-types.git
+
+2. **Navigate to the project directory:**
+
+  ```bash
+ cd regression-and-its-types
+```
+
+3. **Install the required libraries:**
+
+```bash
+pip install -r requirements.txt
+
+```
+## ✅ Requirements
+
+- Python 3.7 or higher
+- Jupyter Notebook
+- Libraries:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+
+### 🙌 Acknowledgements
+Under the guidance of 
