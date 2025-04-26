@@ -26,21 +26,9 @@ The California Housing Prices dataset includes features like:
 
 
 - Housing median age
-
-
-
-Average rooms, bedrooms, and occupancy
-
-
-
-Population
-
-
-
-Latitude and longitude
-
-
-
-Ocean proximity (categorical)
+- Average rooms, bedrooms, and occupancy
+-Population
+- Latitude and longitude
+-Ocean proximity (categorical)
 
 The target variable is the median house value.
