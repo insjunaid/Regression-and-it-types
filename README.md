@@ -18,19 +18,14 @@ Regression is used to model and analyze the relationships between variables and 
 
 This Jupyter Notebook (regression-and-its-types.ipynb) performs a regression analysis on the California Housing Prices dataset, exploring various regression techniques to predict median house values.
 
-Dataset
+### Dataset
 
 The California Housing Prices dataset includes features like:
+- Median income
 
 
 
-
-
-Median income
-
-
-
-Housing median age
+- Housing median age
 
 
 
