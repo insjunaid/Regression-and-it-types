@@ -32,3 +32,21 @@ The California Housing Prices dataset includes features like:
 -Ocean proximity (categorical)
 
 The target variable is the median house value.
+
+### Objectives
+
+- Apply and compare different regression algorithms.
+- Evaluate performance using Mean Squared Error (MSE) and R² Score.
+-  Visualize actual vs. predicted values.
+- Explain regression techniques for continuous target prediction.
+
+### Regression Techniques
+
+The notebook covers:
+
+- Linear Regression: Models linear relationships.
+- Ridge Regression: Linear regression with L2 regularization.
+- Lasso Regression: Linear regression with L1 regularization.
+- Polynomial Regression: Captures non-linear patterns.
+- Decision Tree Regression: Non-linear tree-based model.
+- Random Forest Regression: Ensemble method for better accuracy.
