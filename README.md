@@ -15,3 +15,37 @@
 
 This project provides a detailed explanation and implementation of Regression techniques, a fundamental concept in Machine Learning.
 Regression is used to model and analyze the relationships between variables and to predict continuous outcomes.
+
+This Jupyter Notebook (regression-and-its-types.ipynb) performs a regression analysis on the California Housing Prices dataset, exploring various regression techniques to predict median house values.
+
+Dataset
+
+The California Housing Prices dataset includes features like:
+
+
+
+
+
+Median income
+
+
+
+Housing median age
+
+
+
+Average rooms, bedrooms, and occupancy
+
+
+
+Population
+
+
+
+Latitude and longitude
+
+
+
+Ocean proximity (categorical)
+
+The target variable is the median house value.
