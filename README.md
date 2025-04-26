@@ -45,8 +45,21 @@ The target variable is the median house value.
 The notebook covers:
 
 - <b>Linear Regression</b>: Models linear relationships.
-- Ridge Regression: Linear regression with L2 regularization.
-- Lasso Regression: Linear regression with L1 regularization.
-- Polynomial Regression: Captures non-linear patterns.
-- Decision Tree Regression: Non-linear tree-based model.
-- Random Forest Regression: Ensemble method for better accuracy.
+- <b>Ridge Regression</b>: Linear regression with L2 regularization.
+- <b>Lasso Regression</b>: Linear regression with L1 regularization.
+- <b>Polynomial Regression</b>: Captures non-linear patterns.
+- <b>Decision Tree Regression</b>: Non-linear tree-based model.
+- <b>Random Forest Regression</b>: Ensemble method for better accuracy.
+
+---
+
+## 🛠 Technologies Used
+
+- Python 🐍
+- Scikit-Learn
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
